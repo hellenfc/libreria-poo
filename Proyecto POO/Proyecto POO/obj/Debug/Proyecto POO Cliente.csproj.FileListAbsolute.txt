@@ -1,0 +1,786 @@
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+G:\Proyecto POO\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+G:\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+G:\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+G:\Proyecto POO\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+G:\Proyecto POO\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+G:\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+G:\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+G:\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+G:\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+G:\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+G:\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+G:\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+G:\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+G:\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+G:\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+G:\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.ModificarLibro.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.ModificarUsuario.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+H:\Proyecto POO1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+H:\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+H:\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Branly\Desktop\Proyecto POO1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+H:\Proyecto POO2\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+H:\Proyecto POO2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+H:\Proyecto POO2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Vicktor\Desktop\Proyecto POO2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Vicktor\Desktop\Proyecto POO3\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Vicktor\Desktop\Proyecto POO ULTIMATE\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Yolanda Casco\Documents\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Yolanda Casco\Documents\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Documents\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Documents\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+C:\Users\Yolanda Casco\Documents\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Documents\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Vicktor Sanz\Desktop\ultimate3\Proyecto POO ULTIMATE 2.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+E:\Proyecto POO ULTIMATE 5.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+E:\Proyecto POO ULTIMATE 5.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+E:\Proyecto POO ULTIMATE 6.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+D:\Proyecto POO ULTIMATE 7.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+E:\Proyecto POO ULTIMATE 7.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.EliminarUsuario.resources
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.ModificarLibro.resources
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.ModificarUsuario.resources
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+E:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.EliminarUsuario.resources
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.ModificarLibro.resources
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.ModificarUsuario.resources
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+D:\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.EliminarUsuario.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.ModificarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.ModificarUsuario.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.EliminarUsuario.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.ModificarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.ModificarUsuario.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.EliminarUsuario.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.ModificarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.ModificarUsuario.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.EliminarUsuario.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.ModificarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.ModificarUsuario.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.EliminarUsuario.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.ModificarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.ModificarUsuario.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.ResolveComReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\bin\Debug\Proyecto POO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.AgregarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.BuscarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.EliminarUsuario.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Form1.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.IniciarSesion.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Inicio.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.LeerLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MejoresLibros.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MenuAdministrador.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.MiCuenta.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.ModificarLibro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.ModificarUsuario.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Properties.Resources.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto_POO.Registro.resources
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\Proyecto POO\Proyecto POO\obj\Debug\Proyecto POO Cliente.csproj.GenerateResource.Cache

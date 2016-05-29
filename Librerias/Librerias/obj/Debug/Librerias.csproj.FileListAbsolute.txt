@@ -1,0 +1,50 @@
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Librerias\Librerias\bin\Debug\Librerias.dll
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Librerias\Librerias\bin\Debug\Librerias.pdb
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Librerias\Librerias\obj\Debug\Librerias.csprojResolveAssemblyReference.cache
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Librerias\Librerias\obj\Debug\Librerias.dll
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO\Librerias\Librerias\obj\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Librerias\Librerias\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Librerias\Librerias\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Librerias\Librerias\obj\Debug\Librerias.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Librerias\Librerias\obj\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Downloads\Proyecto POO1\Librerias\Librerias\obj\Debug\Librerias.pdb
+C:\Users\Branly\Desktop\Proyecto POO1\Librerias\Librerias\bin\Debug\Librerias.dll
+C:\Users\Branly\Desktop\Proyecto POO1\Librerias\Librerias\bin\Debug\Librerias.pdb
+C:\Users\Branly\Desktop\Proyecto POO1\Librerias\Librerias\obj\Debug\Librerias.csprojResolveAssemblyReference.cache
+C:\Users\Branly\Desktop\Proyecto POO1\Librerias\Librerias\obj\Debug\Librerias.dll
+C:\Users\Branly\Desktop\Proyecto POO1\Librerias\Librerias\obj\Debug\Librerias.pdb
+C:\Users\Vicktor\Desktop\Proyecto POO2\Librerias\Librerias\bin\Debug\Librerias.dll
+C:\Users\Vicktor\Desktop\Proyecto POO2\Librerias\Librerias\bin\Debug\Librerias.pdb
+C:\Users\Vicktor\Desktop\Proyecto POO2\Librerias\Librerias\obj\Debug\Librerias.csprojResolveAssemblyReference.cache
+C:\Users\Vicktor\Desktop\Proyecto POO2\Librerias\Librerias\obj\Debug\Librerias.dll
+C:\Users\Vicktor\Desktop\Proyecto POO2\Librerias\Librerias\obj\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Librerias\Librerias\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Librerias\Librerias\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Librerias\Librerias\obj\Debug\Librerias.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Librerias\Librerias\obj\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\Librerias\Librerias\obj\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 5.0\Librerias\Librerias\bin\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 5.0\Librerias\Librerias\bin\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 5.0\Librerias\Librerias\obj\Debug\Librerias.csprojResolveAssemblyReference.cache
+E:\Proyecto POO ULTIMATE 5.0\Librerias\Librerias\obj\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 5.0\Librerias\Librerias\obj\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 6.0\Librerias\Librerias\bin\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 6.0\Librerias\Librerias\bin\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 6.0\Librerias\Librerias\obj\Debug\Librerias.csprojResolveAssemblyReference.cache
+E:\Proyecto POO ULTIMATE 6.0\Librerias\Librerias\obj\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 6.0\Librerias\Librerias\obj\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Librerias\Librerias\bin\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Librerias\Librerias\bin\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Librerias\Librerias\obj\Debug\Librerias.csprojResolveAssemblyReference.cache
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Librerias\Librerias\obj\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 6.0 - prueba\Librerias\Librerias\obj\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 8.0\Librerias\Librerias\bin\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 8.0\Librerias\Librerias\bin\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 8.0\Librerias\Librerias\obj\Debug\Librerias.csprojResolveAssemblyReference.cache
+E:\Proyecto POO ULTIMATE 8.0\Librerias\Librerias\obj\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 8.0\Librerias\Librerias\obj\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Librerias\Librerias\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Librerias\Librerias\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Librerias\Librerias\obj\Debug\Librerias.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Librerias\Librerias\obj\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\Librerias\Librerias\obj\Debug\Librerias.pdb

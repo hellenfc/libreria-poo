@@ -1,0 +1,170 @@
+c:\users\yolanda casco\documents\visual studio 2013\Projects\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+H:\Proyecto POO1\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+H:\Proyecto POO2\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+C:\Users\Vicktor\Desktop\Proyecto POO2\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+C:\Users\Vicktor\Desktop\Proyecto POO2\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe
+C:\Users\Vicktor\Desktop\Proyecto POO2\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.pdb
+C:\Users\Vicktor\Desktop\Proyecto POO2\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.dll
+C:\Users\Vicktor\Desktop\Proyecto POO2\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.pdb
+C:\Users\Vicktor\Desktop\Proyecto POO2\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.csprojResolveAssemblyReference.cache
+C:\Users\Vicktor\Desktop\Proyecto POO2\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+C:\Users\Vicktor\Desktop\Proyecto POO2\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+C:\Users\Vicktor\Desktop\Proyecto POO3\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+C:\Users\Vicktor\Desktop\Proyecto POO3\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+C:\Users\Vicktor\Desktop\Proyecto POO3\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+C:\Users\Vicktor\Desktop\Proyecto POO3\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe
+C:\Users\Vicktor\Desktop\Proyecto POO3\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.pdb
+C:\Users\Vicktor\Desktop\Proyecto POO3\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.dll
+C:\Users\Vicktor\Desktop\Proyecto POO3\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.pdb
+C:\Users\Vicktor\Desktop\Proyecto POO3\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.csprojResolveAssemblyReference.cache
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+C:\Users\Vicktor Sanz\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.pdb
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.dll
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.pdb
+H:\Proyecto POO ULTIMATE NUEVO DISEÑO\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE NUEVO DISEÑO\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 3.2\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.csprojResolveAssemblyReference.cache
+E:\Proyecto POO ULTIMATE 5.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+E:\Proyecto POO ULTIMATE 5.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+E:\Proyecto POO ULTIMATE 5.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+E:\Proyecto POO ULTIMATE 5.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe
+E:\Proyecto POO ULTIMATE 5.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.pdb
+E:\Proyecto POO ULTIMATE 5.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 5.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 5.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.csprojResolveAssemblyReference.cache
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.pdb
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.0  copia prueba Mejores LIbros\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 5.1\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+E:\Proyecto POO ULTIMATE 5.1\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+E:\Proyecto POO ULTIMATE 5.1\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+E:\Proyecto POO ULTIMATE 5.1\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+E:\Proyecto POO ULTIMATE 5.1\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe
+E:\Proyecto POO ULTIMATE 5.1\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.pdb
+E:\Proyecto POO ULTIMATE 5.1\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 5.1\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 5.1\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.csprojResolveAssemblyReference.cache
+E:\Proyecto POO ULTIMATE 6.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+E:\Proyecto POO ULTIMATE 6.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+E:\Proyecto POO ULTIMATE 6.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+E:\Proyecto POO ULTIMATE 6.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe
+E:\Proyecto POO ULTIMATE 6.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.pdb
+E:\Proyecto POO ULTIMATE 6.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 6.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 6.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.csprojResolveAssemblyReference.cache
+E:\Proyecto POO ULTIMATE 6.0 - prueba\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+E:\Proyecto POO ULTIMATE 6.0 - prueba\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+E:\Proyecto POO ULTIMATE 6.0 - prueba\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+E:\Proyecto POO ULTIMATE 6.0 - prueba\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe
+E:\Proyecto POO ULTIMATE 6.0 - prueba\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.pdb
+E:\Proyecto POO ULTIMATE 6.0 - prueba\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 6.0 - prueba\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 6.0 - prueba\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.csprojResolveAssemblyReference.cache
+D:\Proyecto POO ULTIMATE 7.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+D:\Proyecto POO ULTIMATE 7.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+D:\Proyecto POO ULTIMATE 7.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+D:\Proyecto POO ULTIMATE 7.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe
+D:\Proyecto POO ULTIMATE 7.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.pdb
+D:\Proyecto POO ULTIMATE 7.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.dll
+D:\Proyecto POO ULTIMATE 7.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.pdb
+D:\Proyecto POO ULTIMATE 7.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.csprojResolveAssemblyReference.cache
+E:\Proyecto POO ULTIMATE 7.1\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+E:\Proyecto POO ULTIMATE 7.1\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+E:\Proyecto POO ULTIMATE 7.1\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+E:\Proyecto POO ULTIMATE 8.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+E:\Proyecto POO ULTIMATE 8.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+E:\Proyecto POO ULTIMATE 8.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+E:\Proyecto POO ULTIMATE 8.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe
+E:\Proyecto POO ULTIMATE 8.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.pdb
+E:\Proyecto POO ULTIMATE 8.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.dll
+E:\Proyecto POO ULTIMATE 8.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.pdb
+E:\Proyecto POO ULTIMATE 8.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.csprojResolveAssemblyReference.cache
+D:\Proyecto POO ULTIMATE 8.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+D:\Proyecto POO ULTIMATE 8.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+D:\Proyecto POO ULTIMATE 8.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 8.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.0\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 9.1\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.1\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.csprojResolveAssemblyReference.cache
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe.config
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.exe
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\ServidorProyectoPOO.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.dll
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\ServidorProyectoPOO\ServidorProyectoPOO\bin\Debug\Librerias.pdb
+C:\Users\Yolanda Casco\Desktop\Proyecto POO ULTIMATE 10.2\ServidorProyectoPOO\ServidorProyectoPOO\obj\Debug\ServidorProyectoPOO.csprojResolveAssemblyReference.cache
